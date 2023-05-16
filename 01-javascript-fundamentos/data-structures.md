@@ -13,7 +13,7 @@
 
 #### Variáveis e Constantes
 
-- Os dados são aramzenados nas variáveis e constantes.
+- Os dados são armazenados nas variáveis e constantes.
 - Elas permitem realizar operações: atribuições, aritméticas, ralacionais, lógicas, etc.
 
 ### JavaScript
