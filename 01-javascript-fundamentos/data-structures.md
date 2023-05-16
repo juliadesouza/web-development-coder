@@ -15,3 +15,9 @@
 
 - Os dados são aramzenados nas variáveis e constantes.
 - Elas permitem realizar operações: atribuições, aritméticas, ralacionais, lógicas, etc.
+
+### JavaScript
+
+- Organizados em sentenças e blocos de código.
+- "var" permite redeclarar uma variável dentro do mesmo escopo. Algo que "let" não permite.
+- Tipagem fraca: podemos atribuir tipos diferentes para uma mesma variável.
