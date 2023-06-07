@@ -12,3 +12,6 @@ const c = 5;
 // c = 500;
 
 console.log(c);
+
+this.oi = "oii";
+console.log(module.exports.oi)

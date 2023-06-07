@@ -18,6 +18,8 @@ console.log(typeof media);
 // Alguns cuidados
 console.log(7 / 0);
 console.log("10" / 2);
+console.log("3" + 2); // o sinal de + faz sentido no mundo da string, por isso ele prefere concatenar do que somar
+
 console.log("Show!" * 2);
 console.log(0.1 * 0.7);
 
